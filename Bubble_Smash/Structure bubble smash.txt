@@ -1,0 +1,27 @@
+----------STructure du code------------
+
+package Game:
+
+	> Jouabilité
+			> maniabilité du personnage
+			> gestion de la zone de collisionnage
+			> gestion des bonus
+			> gestion des niveaux 
+			> gestion des vies
+	> Graphisme:
+			> menu de lancement
+			> animation écran de sélection
+			> mouvement des boules et changement de  taille
+			> animation du personnage dans les mouvements
+			> animation des bonus
+			> génération des boules aléatoire
+
+	> Création personage et bubble:
+			> classe personnage
+			> classe bubble
+
+package ressources : 
+	> Graphismes utiles :
+			> fond
+			> chara-design
+			> boules
